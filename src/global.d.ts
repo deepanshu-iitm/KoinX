@@ -1,1 +1,1 @@
-declare var TradingView: any;
+declare let TradingView: any;
